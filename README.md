@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá, meu nome é Fernanda!
+Estudante de Análise e Desenvolvimento de Sistemas pela Universidade Estadual da Paraíba.
 
-<!--
-**fernandaellen-b/fernandaellen-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fernandaellen-b&theme=gotham&hide_border=true&include_all_commits=true&count_private=false" height="150" alt="stats graph"  />
+</div>
 
-Here are some ideas to get you started:
+## Minhas Skills
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Entre em contato
+<a href="https://www.linkedin.com/in/fernandaellenb" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
