@@ -1,5 +1,4 @@
 ### Olá, meu nome é Fernanda!
-Estudante de Análise e Desenvolvimento de Sistemas pela Universidade Estadual da Paraíba.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
